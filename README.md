@@ -1,2 +1,4 @@
-# Simple-Script
-Create a script that:  Creates a new directory called MyFolder.  Creates a file inside it called hello.txt.  Writes "Hello, World!" inside hello.txt.  Displays the file content.
+📌 Steps to Complete:
+1️⃣ Use mkdir to create a directory.
+2️⃣ Use echo to write text into a file.
+3️⃣ Use cat to display the file content.
